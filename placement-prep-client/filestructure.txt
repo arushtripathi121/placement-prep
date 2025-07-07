@@ -1,0 +1,26 @@
+|-- .gitignore
+|-- .vercel
+    |-- project.json
+    |-- README.txt
+|-- eslint.config.js
+|-- index.html
+|-- package-lock.json
+|-- package.json
+|-- public
+    |-- vite.svg
+|-- README.md
+|-- src
+    |-- App.css
+    |-- App.jsx
+    |-- assets
+        |-- react.svg
+    |-- components
+    |-- index.css
+    |-- main.jsx
+    |-- pages
+        |-- LandingPage.jsx
+        |-- Resume.jsx
+    |-- router
+        |-- AppRouter.jsx
+|-- vercel.json
+|-- vite.config.js
